@@ -1,5 +1,7 @@
 # 8 puzzle 
 
-Breath First Search implementation
+Implementation via:-
 
-Depth First Search Implementation
+1. Breath First Search 
+
+2. Depth First Search 
